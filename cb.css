@@ -190,6 +190,8 @@ position: relative;
 width: 416px;
 height: 629px;
 margin: auto;
+margin-top: 60px;
+margin-bottom: 60px;
 background: #FFFFFF;
 box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
 border-radius: 20px;
